@@ -26,7 +26,7 @@ class Acc {
     }
 }
 
-public class Main {
+public class AccLoginExample {
     public static boolean Loggedin = false;
     public static boolean exit = false;
 
